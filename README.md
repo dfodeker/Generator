@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+It's a tool to create Mailto links with recipent emails, the email subject and email body, note that actual functionality of this may vary. chrome has a char limit of about 2000. it is a very niche tool.
 
 It also includes:
 
